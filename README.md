@@ -1,2 +1,2 @@
-# Fakt-riyel
-Faktöriyel
+# Faktoriyel
+Faktoriyel
